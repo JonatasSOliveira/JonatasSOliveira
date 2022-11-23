@@ -17,8 +17,17 @@ Here are some ideas to get you started:
 
 Olá, eu sou o Jonatas Oliveira. 
 
-Sou formado em Técnico em Informática Integrado ao Ensino Médio (2019) pela IFPR - Campus Paranavaí e, atualmente, sou acadêmico de Bacharelado em Engenharia de Software, também pela IFPR - Campus Paranavaí
+Sou formado em Técnico em Informática Integrado ao Ensino Médio (2019) pela IFPR - Campus Paranavaí e, atualmente, sou acadêmico de Bacharelado em Engenharia de Software, também pela IFPR - Campus Paranavaí.
 
+Atualmente trabalho como Desenvolvedor Fullstack Pleno, utilizando tecnologias Angular e Django, em softwares da área financeira
+
+
+### STATUS DO GITHUB
+
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasSOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasSOliveira&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### UM POUCO SOBRE MIM
 
@@ -29,3 +38,11 @@ Já estou envolvido na tecnologia desde os meus 14 anos, graças ao curso Técni
 
  Atualmente, no cargo que ocupo, estou atuando como desenvolvedor Fullstack WEB e Mobile, tendo contato principalmente com a linguagem javascript e com as tecnologias React, React-Native, NodeJS e MySQL.
  Também estou cursando o curso Bacharelado em Engenharia de Software no IFPR - Campus Paranavaí, por já conhecer a qualidade do ensino e pela localidade, isso para ter um ensino mais aprofundado na área, Além disso, em algumas horas vagas do meu dia, procuro me atualizar, estudando e desenvolvendo projetos pessoais, aprendendo um pouco mais das tecnologias que uso no dia a dia e também outras, como o Typescript e Electron.
+ 
+### REDES SOCIAIS
+
+<div>
+ <a href="https://www.linkedin.com/in/jonatassoliveira/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a>
+</div>
