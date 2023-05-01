@@ -23,7 +23,7 @@ I have completed the "Technical Course in Computer Science Integrated to High Sc
 
 I work as mid-level developer using Angular and Django technologies, in financial software.
 
-Also have knowleadge in technologies like: React, Flutter and Springboot
+Also have knowleadge in technologies like: React, Flutter and Springboot.
 
 [PT-BR]
 
@@ -33,7 +33,7 @@ Formando do curso "Técnico em Informática Integrado ao Ensino Médio" (2019 - 
 
 Atualmente trabalho como Desenvolvedor Fullstack Pleno, utilizando tecnologias Angular e Django, em softwares da área financeira.
 
-Também possuo conhecimento em tecnologias como: React, Flutter e Springboot
+Também possuo conhecimento em tecnologias como: React, Flutter e Springboot.
 
 ### ABOUT ME
 
