@@ -38,11 +38,13 @@ Também possuo conhecimento em tecnologias como: React, Flutter e Springboot
 ### ABOUT ME
 
 [EN]
+
 Since I was 14 years old, I have been involved with technology thanks to the Técnico em Informática Integrado ao Ensino Médio (Technical Course in Computer Science Integrated with High School) at IFPR - Campus Paranavaí. During this period, I had contact with several technologies such as Java, MySQL, and PHP, as well as participating in extracurricular projects such as Augmented Reality for Gas Movement in Chemistry (C# with the help of Unity) and Robotics with Lego Mindstorm (Java) and Arduino (C++). Additionally, I attended lectures and mini-courses in the technology and development fields.
 
 I consider the beginning of my professional life to be during high school, when I was selected to be a monitor for the "Algoritmos e Estrutura de Dados" (Algorithms and Data Structures) course and helped other students. After completing high school, I started as an intern at a company and was later hired. Currently, I work as a Mid-level Full Stack Developer at NextAge, where I work on financial systems using technologies such as Django (Python), Angular (Typescript), Springboot (Kotlin), and PostgreSQL.
 
 [PT-BR]
+
 Desde os 14 anos, venho me envolvendo com tecnologia, graças ao curso Técnico em Informática Integrado ao Ensino Médio do IFPR - Campus Paranavaí. Durante este período, tive contato com diversas tecnologias como Java, MySQL e PHP, além de participar de projetos extracurriculares como Realidade Aumentada para Movimentos dos Gases em Química (C# com ajuda do Unity) e Robótica com Lego Mindstorm (Java) e Arduino (C++). Além disso, participei de palestras e minicursos na área de tecnologia e desenvolvimento.
 
 Considero meu início na vida profissional ainda no ensino médio, quando fui selecionado para ser monitor da disciplina "Algoritmos e Estrutura de Dados" e auxiliar outros alunos do curso. Após concluir o ensino médio, comecei como estagiário em uma empresa na qual, após um ano e meio, fui efetivado. Agora, atuo como Desenvolvedor Fullstack Pleno na NextAge, onde trabalho com sistemas da área financeira, utilizando principalmente tecnologias como Django (Python), Angular (Typescript), Springboot (Kotlin) e BD PostgreSQl.
