@@ -15,12 +15,37 @@ Here are some ideas to get you started:
 
 ### HELLO WORLD!
 
+[EN]
+
+Hi There, I'm Jonatas Oliveira
+
+I have completed the "Technical Course in Computer Science Integrated to High School" (2019 - IFPR - Paranavaí Campus) and I'm currently a student of Bachelor's degree in Software Engineering (IFPR - Paranavaí Campus).
+
+I work as mid-level developer using Angular and Django technologies, in financial software.
+
+Also have knowleadge in technologies like: React, Flutter and Springboot
+
+[PT-BR]
+
 Olá, eu sou o Jonatas Oliveira. 
 
-Sou formado em Técnico em Informática Integrado ao Ensino Médio (2019) pela IFPR - Campus Paranavaí e, atualmente, sou acadêmico de Bacharelado em Engenharia de Software, também pela IFPR - Campus Paranavaí.
+Formando do curso "Técnico em Informática Integrado ao Ensino Médio" (2019 - IFPR - Campus Paranavaí) e, atualmente, sou acadêmico de Bacharelado em Engenharia de Software (IFPR - Campus Paranavaí).
 
-Atualmente trabalho como Desenvolvedor Fullstack Pleno, utilizando tecnologias Angular e Django, em softwares da área financeira
+Atualmente trabalho como Desenvolvedor Fullstack Pleno, utilizando tecnologias Angular e Django, em softwares da área financeira.
 
+Também possuo conhecimento em tecnologias como: React, Flutter e Springboot
+
+### ABOUT ME
+
+[EN]
+Since I was 14 years old, I have been involved with technology thanks to the Técnico em Informática Integrado ao Ensino Médio (Technical Course in Computer Science Integrated with High School) at IFPR - Campus Paranavaí. During this period, I had contact with several technologies such as Java, MySQL, and PHP, as well as participating in extracurricular projects such as Augmented Reality for Gas Movement in Chemistry (C# with the help of Unity) and Robotics with Lego Mindstorm (Java) and Arduino (C++). Additionally, I attended lectures and mini-courses in the technology and development fields.
+
+I consider the beginning of my professional life to be during high school, when I was selected to be a monitor for the "Algoritmos e Estrutura de Dados" (Algorithms and Data Structures) course and helped other students. After completing high school, I started as an intern at a company and was later hired. Currently, I work as a Mid-level Full Stack Developer at NextAge, where I work on financial systems using technologies such as Django (Python), Angular (Typescript), Springboot (Kotlin), and PostgreSQL.
+
+[PT-BR]
+Desde os 14 anos, venho me envolvendo com tecnologia, graças ao curso Técnico em Informática Integrado ao Ensino Médio do IFPR - Campus Paranavaí. Durante este período, tive contato com diversas tecnologias como Java, MySQL e PHP, além de participar de projetos extracurriculares como Realidade Aumentada para Movimentos dos Gases em Química (C# com ajuda do Unity) e Robótica com Lego Mindstorm (Java) e Arduino (C++). Além disso, participei de palestras e minicursos na área de tecnologia e desenvolvimento.
+
+Considero meu início na vida profissional ainda no ensino médio, quando fui selecionado para ser monitor da disciplina "Algoritmos e Estrutura de Dados" e auxiliar outros alunos do curso. Após concluir o ensino médio, comecei como estagiário em uma empresa na qual, após um ano e meio, fui efetivado. Agora, atuo como Desenvolvedor Fullstack Pleno na NextAge, onde trabalho com sistemas da área financeira, utilizando principalmente tecnologias como Django (Python), Angular (Typescript), Springboot (Kotlin) e BD PostgreSQl.
 
 ### STATUS DO GITHUB
 
@@ -28,16 +53,6 @@ Atualmente trabalho como Desenvolvedor Fullstack Pleno, utilizando tecnologias A
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JonatasSOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasSOliveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-### UM POUCO SOBRE MIM
-
-Já estou envolvido na tecnologia desde os meus 14 anos, graças ao curso Técnico em Informática Integrado ao Ensino Médio do IFPR - Campus Paranavaí, então, logo na minha adolescência, consegui muito contato com o desenvolvimento e o planejamento de softwares.
- Durante meu tempo na instituição, tive contato com as tecnologias Java, MySQL e PHP pela ementa do curso; além disso tive contatos com projetos extras, como: Realidade Aumentada para Movimentos dos Gases em Química (C# com ajuda do Unity); Robótica com Lego (Java) e com Arduino (C++). Além de palestras sobre tecnologia e alguns minicursos também relacionados a área.
- Acredito que consigo considerar o início da minha vida profissional ainda no ensino médio, mais especificamente no último ano do curso, com a vaga para monitor da disciplina "Algoritmos e Estrutura de Dados", no qual eu tinha um dia específico para ir para a instituição no período diurno para tirar dúvidas dos outros alunos que estavam cursando o mesmo curso do 1º ao 4º ano.
- Ao final do meu último ano do Ensino Médio Técnico, conquistei a vaga de estagiário na empresa Ápice Sistema como Auxiliar de Desenvolvimento de Sistemas, empresa essa que, após cerca de um ano e meio, fui contratado e estou trabalhando até o momento.
-
- Atualmente, no cargo que ocupo, estou atuando como desenvolvedor Fullstack WEB e Mobile, tendo contato principalmente com a linguagem javascript e com as tecnologias React, React-Native, NodeJS e MySQL.
- Também estou cursando o curso Bacharelado em Engenharia de Software no IFPR - Campus Paranavaí, por já conhecer a qualidade do ensino e pela localidade, isso para ter um ensino mais aprofundado na área, Além disso, em algumas horas vagas do meu dia, procuro me atualizar, estudando e desenvolvendo projetos pessoais, aprendendo um pouco mais das tecnologias que uso no dia a dia e também outras, como o Typescript e Electron.
  
 ### REDES SOCIAIS
 
