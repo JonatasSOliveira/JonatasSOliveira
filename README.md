@@ -45,7 +45,7 @@ Sou apaixonado por entregar soluções bem feitas, com código limpo, testável 
 
 - 📧 Email: dev.jonatas.oliveita@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jonatassoliveira/)  
-- 💻 [Meu currículo PDF]([https://github.com/JonatasSOliveira/CV](https://github.com/JonatasSOliveira/JonatasSOliveira/blob/main/CV.pdf))
+- 💻 [Meu currículo PDF](https://github.com/JonatasSOliveira/JonatasSOliveira/blob/main/CV.pdf)
 
 ---
 
